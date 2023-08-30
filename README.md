@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Prueba modulo 2 Henry
+Luis Albornoz
+Este es un proyecto de prueba de como crear un repositorio y clonarlo
